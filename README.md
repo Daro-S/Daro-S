@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+- I love learning 🕵
 - 🔭 I’m currently working on Data Science and NLP<br>
 - 🌱 I’m currently learning Deep Learning and Doing research on image recognition
 
