@@ -1,8 +1,9 @@
 # 💫 About Me:
 
-- I love learning 🕵
-- 🔭 I’m currently working on Data Science and NLP<br>
-- 🌱 I’m currently learning Deep Learning and Doing research on image recognition
+- I love learning 🕵 <br>
+- I enjoy using AI for Health Sciences
+- 🔭 I’m working on Data Science and NLP<br>
+- 🌱 I’m Doing research on image recognition and Transformer model
 
 ## 🌐 Socials:
 
