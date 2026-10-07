@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-- I love learning 🕵 <br>
 - I enjoy using AI for Health Sciences (AMR, Radiotherapy)
 - 🔭 I’m working on Data Science and NLP<br>
 
